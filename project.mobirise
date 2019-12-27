@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IIRSG Official",
-    "currentPage": "page1.html",
+    "currentPage": "qip.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -864,7 +864,7 @@
         }
       ]
     },
-    "page1.html": {
+    "qip.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "qip",
