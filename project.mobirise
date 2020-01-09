@@ -874,8 +874,8 @@
     },
     "qip.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "qip",
+        "meta_descr": "",
+        "title": "IIRSG-Quality Improvement Program",
         "order": 1
       },
       "components": [
