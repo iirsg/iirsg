@@ -1363,6 +1363,30 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rN4afRVmXF {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rN4afRVmXF .image-block {
+  margin: auto;
+}
+.cid-rN4afRVmXF .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rN4afRVmXF figcaption {
+  position: relative;
+}
+.cid-rN4afRVmXF figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rN4afRVmXF .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rLPzsRYihX .navbar {
   background: #073b4c;
   transition: none;
