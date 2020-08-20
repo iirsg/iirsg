@@ -1,2 +1,2 @@
-# iirsg
-GitHub Pages
+# IIRSG
+Welcome to IIRSG Central Admin Portal
