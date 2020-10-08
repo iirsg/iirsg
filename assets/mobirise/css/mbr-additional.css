@@ -2236,12 +2236,35 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rVs5YxQO8q {
-  padding-top: 45px;
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rVs5YxQO8q P {
   color: #767676;
+}
+.cid-scOQTinp7w {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f9f295;
+}
+.cid-scOQTinp7w .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-scOQTinp7w .section-text {
+  padding: 2rem 0;
+}
+.cid-scOQTinp7w .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-scOQTinp7w .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rVs6y3u9ld {
   padding-top: 90px;
